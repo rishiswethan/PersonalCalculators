@@ -10,14 +10,14 @@ typical house in London
 #
 # interest_rate = 0.055
 # down_payment = 0.2
-# tenure = 15
+# tenure = 30
 # yearly_savings_return = 0.06
 # property_price_appreciation = 0.04
 #
 # rent_percentage = 0.05  # rental yield
 # rent_maintenance_per = 0.1  # amount of the rent that goes to maintenance, property tax, etc.
 #
-# inflation = 0.03
+# inflation = 0.02
 
 # -------------------------------------------------------------------------------------------------------------------------------
 """
@@ -35,7 +35,7 @@ property_price_appreciation = 0.07
 rent_percentage = 0.023  # rental yield
 rent_maintenance_per = 0.07  # amount of the rent that goes to maintenance, property tax, etc.
 
-inflation = 0.06
+inflation = 0.04
 
 # -------------------------------------------------------------------------------------------------------------------------------
 """
