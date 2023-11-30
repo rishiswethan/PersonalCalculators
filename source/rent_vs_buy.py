@@ -35,7 +35,7 @@ property_price_appreciation = 0.07
 rent_percentage = 0.023  # rental yield
 rent_maintenance_per = 0.07  # amount of the rent that goes to maintenance, property tax, etc.
 
-inflation = 0.06
+inflation = 0.04
 
 # -------------------------------------------------------------------------------------------------------------------------------
 """
